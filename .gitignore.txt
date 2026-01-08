@@ -1,0 +1,19 @@
+# JetBrains / CLion
+.idea/
+
+# build outputs / executables
+*.exe
+*.out
+*.o
+*.obj
+final
+final.exe
+
+# profiling
+gmon.out
+
+# cmake
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Makefile
